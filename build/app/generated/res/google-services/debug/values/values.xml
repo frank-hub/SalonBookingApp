@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">951130584193-goehud911ns4qlgocl0llei1664btm7l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">951130584193</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_btFSc0VelkuaNMQvY8ocD1ko1DDSx-8</string>
+    <string name="google_app_id" translatable="false">1:951130584193:android:c30f37832e9abdb59d4980</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_btFSc0VelkuaNMQvY8ocD1ko1DDSx-8</string>
+    <string name="google_storage_bucket" translatable="false">evensalon-e7574.appspot.com</string>
+    <string name="project_id" translatable="false">evensalon-e7574</string>
+</resources>

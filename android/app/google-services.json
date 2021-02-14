@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951130584193",
+    "project_id": "evensalon-e7574",
+    "storage_bucket": "evensalon-e7574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951130584193:android:c30f37832e9abdb59d4980",
+        "android_client_info": {
+          "package_name": "com.example.salon_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951130584193-goehud911ns4qlgocl0llei1664btm7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_btFSc0VelkuaNMQvY8ocD1ko1DDSx-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951130584193-goehud911ns4qlgocl0llei1664btm7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
